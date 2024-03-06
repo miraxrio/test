@@ -1,12 +1,9 @@
+
 {
-    "scenes": [
-        {
-            "meeting_id_code": "1234",
-            "selectedScene": "World_Outdoor"
-        },
-        {
-            "meeting_id_code": "5678",
-            "selectedScene": "World_School"
-        }
-    ]
+    "meeting_id_code": "1234",
+    "selectedScene": "World_Outdoor"
+},
+{
+    "meeting_id_code": "5678",
+    "selectedScene": "World_School"
 }
